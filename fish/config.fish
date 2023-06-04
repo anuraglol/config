@@ -9,6 +9,7 @@ alias pnd="pnpm dev"
 alias pnb="pnpm build"
 alias pns="pnpm start"
 alias pni="pnpm install"
+alias cls="clear"
 
 export BROWSER=wslview
 
